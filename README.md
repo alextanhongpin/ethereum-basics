@@ -414,3 +414,12 @@ contract BugSquash {
   '79', // y
   '7a'] // z 
 ```
+
+
+## Sending Ether
+
+Improper use of the ether transfer functions are the number one source of Solidity bugs and hacks. There are three ways to send ether in Solidity:
+
+- address.transfer(value): throws error when fail, fixed gas stipend of 2300 gas. Most secure, use whenever possible.
+- address.send(value): returns false when fail, fixed gas stipend of 2300 gas
+- address.call.value(value)(): opens up to re-entrancy attacks, avoid using
