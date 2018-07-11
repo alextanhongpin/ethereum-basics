@@ -29,12 +29,25 @@
 - How to compile the contract? 
 - What is the expected output?
 
+With `solcjs`:
 ```bash
 $ solc --abi --bin -o target HelloWorld.sol
 ```
 
+With `truffle`:
+
+```bash
+$ truffle compile
+```
+
 The bin is what we need to deploy the contract.
 The ABI is what we need to communicate with the contract.
+
+## Go bindings
+
+```bash
+$ abigen --abi token.abi --pkg main --type Token --out token.go
+```
 
 ## Deployment
 
