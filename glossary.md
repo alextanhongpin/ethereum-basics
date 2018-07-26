@@ -7,6 +7,9 @@
 ## K
 - KYC (Know Your Customer): https://medium.com/swlh/kyc-using-blockchain-2669ff08abc7
 
+## M 
+- Masternodes (MN): https://coinsutra.com/masternodes/
+
 ## T
 - Transaction: https://en.bitcoin.it/wiki/Transaction
 
@@ -20,3 +23,9 @@
 - 21 supernodes https://bitcoinmagazine.com/articles/eos-hype-builds-over-50-candidates-vie-21-supernodes/
 - bitcoin transaction types: https://www.cryptocompare.com/coins/guides/what-are-the-bitcoin-transaction-types/
 - what is EOS: https://blockgeeks.com/guides/eos-blockchain/
+- why 21 nodes on EOS: https://blog.cosmos.network/consensus-compare-tendermint-bft-vs-eos-dpos-46c5bca7204b
+- https://np.reddit.com/r/ethereum/comments/6qm0y2/is_the_ethereum_team_defending_their_ground/
+- mention of strong light client technology for validating transactions: https://vitalik.ca/general/2017/05/08/coordination_problems.html
+- smart contract audit: https://www.devteam.space/blog/how-to-audit-a-smart-contract-a-guide/
+- EOS Technical white paper: https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md
+- Proof of Staking Velocity: https://reddcoin.com/papers/PoSV.pdf
