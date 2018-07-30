@@ -30,6 +30,7 @@
 - EOS Technical white paper: https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md
 - Proof of Staking Velocity: https://reddcoin.com/papers/PoSV.pdf
 - Masternodes vs Coin Staking Rewards: https://apollon.zendesk.com/hc/en-us/articles/360002929491-What-is-the-difference-between-masternode-rewards-and-coin-staking-rewards-
+- Forking Ethereum: https://www.quora.com/How-does-forking-work-on-Ethereum
 
 
 # Dashboards:
