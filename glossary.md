@@ -35,3 +35,14 @@
 
 # Dashboards:
 - WaltonChain https://wtc-gmn-tracker.herokuapp.com/
+
+## No mining in PoA
+
+`miner` is still valid. By definition, `mining` is the process by which transactions are verified and added to the public ledger. the only difference is
+
+```
+for `PoW`: The mining process involves compiling recent transactions into blocks and trying to solve a computationally difficult puzzle
+for `PoA`: The mining process involves choosing a signer among a list of authorised signers to produce the block
+```
+
+when they say there is no mining in PoA, they mean you don’t need to solve any CPU-intensive cryptography puzzle
