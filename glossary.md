@@ -1,6 +1,9 @@
 ## B
 - block gas limit: https://ethereum.stackexchange.com/questions/36565/what-is-a-private-proof-of-authority-transaction-speed
 - bootnode: https://github.com/ethereum/go-ethereum#creating-the-rendezvous-point, https://github.com/ethereum/go-ethereum/blob/master/params/bootnodes.go
+
+## E
+- Ethereum state: https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed, https://www.coindesk.com/information/how-ethereum-works/
 ## G
 - Gas: https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/
 
