@@ -9,6 +9,7 @@
 
 ## M 
 - Masternodes (MN): https://coinsutra.com/masternodes/
+- Minting: https://talk.peercoin.net/t/the-complete-guide-to-minting/2524
 
 ## T
 - Transaction: https://en.bitcoin.it/wiki/Transaction
