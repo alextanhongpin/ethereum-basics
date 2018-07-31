@@ -5,6 +5,7 @@
 - Gas: https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/
 
 ## K
+- Kademlia: https://en.wikipedia.org/wiki/Kademlia
 - KYC (Know Your Customer): https://medium.com/swlh/kyc-using-blockchain-2669ff08abc7
 
 ## M 
