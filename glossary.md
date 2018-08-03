@@ -7,6 +7,8 @@
 ## G
 - Gas: https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/
 
+## I
+- IPC: https://ethereum.stackexchange.com/questions/10681/what-are-ipc-and-rpc
 ## K
 - Kademlia: https://en.wikipedia.org/wiki/Kademlia, https://github.com/ethereum/wiki/wiki/Kademlia-Peer-Selection
 - KYC (Know Your Customer): https://medium.com/swlh/kyc-using-blockchain-2669ff08abc7
